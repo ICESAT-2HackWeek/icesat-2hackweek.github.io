@@ -1,11 +1,11 @@
 # Site settings
-title: ICESat-2 Hack Week 2018
-email: landungs@uw.edu
-description: Workshop On Geospatial Data Science <br>
+title: ICESat-2 Hack Week 2019
+email: arendta@uw.edu
+description: Workshop On ICESat-2 Datasets <br>
              University of Washington eScience Institute <br>
-             Sept 10 - 14, 2018 <br> <br>
-             Applications has been closed. <br>
-             Announcements will be made shortly.
+             June 2019 <br> <br>
+             Applications will be accepted soon. <br>
+             Check back soon!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
@@ -19,15 +19,15 @@ featured-image-source:
 # Social settings
 500px_url:
 facebook_url:
-github_url: https://github.com/geohackweek
+github_url: https://github.com/ICESAT-2HackWeek
 gitlab_url:
 googleplus_url:
 instagram_url:
 linkedin_url:
 pinterest_url:
-slack_url: https://geohackweek2018.slack.com
+slack_url: https://ICESat2hackweek.slack.com
 twitter_url:
-email_url: geohack@uw.edu
+email_url: icesat2hackweek@uw.edu
 
 # Build settings
 markdown: kramdown

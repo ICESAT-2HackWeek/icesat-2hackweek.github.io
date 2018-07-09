@@ -1,5 +1,5 @@
 ---
 layout: default
 title: Home
-description: Workshop On Geospatial Data Science
+description: Workshop On ICESat-2 Data
 ---
