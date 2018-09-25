@@ -5,7 +5,7 @@ permalink: hackweek.html
 description: Learn about "hackweek".
 ---
 
-[The hackweek model](https://arxiv.org/abs/1711.00028) has emerged within the data
+[The hackweek model](http://www.pnas.org/content/115/36/8872.short) has emerged within the data
 science community as a powerful tool for fostering exchange of ideas in research and computation by providing training in modern data analysis workflows. In contrast to conventional academic conferences
 or workshops, hackweeks are intensive and interactive, facilitated by three core
 components: tutorials on state-of-the-art methodology, peer-learning, and on-site
