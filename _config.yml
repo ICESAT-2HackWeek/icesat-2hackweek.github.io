@@ -1,6 +1,6 @@
 # Site settings
 title: Cryospheric Science with ICESat-2 Hackweek 2019
-email: arendta@uw.edu
+email: icesat@uw.edu
 description: Workshop On ICESat-2 Datasets for cryospheric studies <br>
              University of Washington <br>
              June 17-21, 2019 <br> <br>
@@ -25,7 +25,7 @@ linkedin_url:
 pinterest_url:
 slack_url: https://ICESat2hackweek.slack.com
 twitter_url:
-email_url: icesat2hackweek@uw.edu
+email_url: icesat@uw.edu
 
 # Build settings
 markdown: kramdown
