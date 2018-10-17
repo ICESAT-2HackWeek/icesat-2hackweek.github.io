@@ -57,10 +57,9 @@ team:
       image_url: https://avatars2.githubusercontent.com/u/3924836?s=460&v=4
       github_user: scottyhq
 
-
   - - name: Fernando Perez
       title: Assistant Professor/Faculty Scientist
-      affiliate: (Department of Statistics, UC Berkeley)[https://bids.berkeley.edu/people/fernando-perez]
+      affiliate: [Department of Statistics, UC Berkeley](https://bids.berkeley.edu/people/fernando-perez)
       image_url: https://avatars1.githubusercontent.com/u/57394?s=400&v=4
       github_user: fperez
 
