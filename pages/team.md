@@ -8,7 +8,7 @@ team:
       title: Senior Principal Scientist
       affiliate: APL
       image_url: /assets/images/AxelSchweiger.JPG
-      github_user: aaarendt
+      github_user: 
 
     - name: Anthony Arendt
       title: Principal Research Scientist
@@ -62,6 +62,12 @@ team:
       affiliate: <a href="https://bids.berkeley.edu/people/fernando-perez">Department of Statistics, UC Berkeley</a>
       image_url: https://avatars1.githubusercontent.com/u/57394?s=400&v=4
       github_user: fperez
+
+  - - name: Johan Nilsson
+      title: Scientist
+      affiliate: <a href="https://science.jpl.nasa.gov/people/Nilsson/">Jet Propulsion Laboratory, NASA</a>
+      image_url: /assets/images/JohanNilsson.JPG
+      github_user: nilssonj
 
 
 ---
