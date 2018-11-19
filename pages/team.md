@@ -2,9 +2,7 @@
 layout: page
 title: INSTRUCTORS and EVENT COORDINATORS
 permalink: our-team.html
-description: Contributors to the IS2Hackweek
----
-
+description: List of contributors to the IS2HackWeek
 team:
   - - name: Axel Schweiger
       title: Senior Principal Scientist
@@ -76,3 +74,5 @@ team:
       affiliate: NASA Jet Propulsion Laboratory 
       image_url: https://avatars0.githubusercontent.com/u/539688?s=460&v=4
       github_user: fspaolo
+
+---
