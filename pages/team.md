@@ -2,7 +2,7 @@
 layout: page
 title: INSTRUCTORS and EVENT COORDINATORS
 permalink: our-team.html
-description: List of contributors to the IS2HackWeek
+description:
 team:
   - - name: Axel Schweiger
       title: Senior Principal Scientist
