@@ -2,7 +2,7 @@
 layout: page
 title: INSTRUCTORS and EVENT COORDINATORS
 permalink: our-team.html
-description:
+description: List of contributors to IS2HackWeek
 team:
   - - name: Axel Schweiger
       title: Senior Principal Scientist
@@ -69,7 +69,7 @@ team:
       image_url: /assets/images/JohanNilsson.jpg
       github_user: nilssonj
 
-    - name: [Fernando Paolo](http://fspaolo.net)
+    - name: Fernando Paolo
       title: Postdoctoral Scholar 
       affiliate: NASA Jet Propulsion Laboratory 
       image_url: https://avatars0.githubusercontent.com/u/539688?s=460&v=4
