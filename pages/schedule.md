@@ -27,194 +27,134 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 ### Monday
 
 <table>
-
 <tbody>
-
 <tr>
-
 <th>Time</th>
-
 <th>Event</th>
-
 <th>Instructors</th>
-
 </tr>
 
 <tr>
 
 <td>8:30 - 9:15 AM</td>
-
 <td>Welcome to the hackweek</td>
-
 <td>adminstrative team </td>
-
 </tr>
 
 <tr>
-
 <td>9:15 - 10:30 AM</td>
-
 <td><a href="https://geohackweek.github.io/datasharing/">Data Sharing and Collaboration Tools</a>
 <ul>
     <li>Jupyter Notebooks</li>
     <li>Cloud environments for tutorial</li>
 </ul>
 </td>
-
 <td>Amanda Tan, Fernando Perez</td>
-
 </tr>
 
 <tr>
-
 <td>10:30 - 11:00 AM</td>
-
 <td>Icebreaker activity and coffee break</td>
-
 <td></td>
-
 </tr>
 
 <tr>
-
 <td>11:00 AM - 12:00 AM</td>
-
 <td><a href="https://geohackweek.github.io/Introductory/03-git-tutorial/">Git/GitHub</a></td>
-
 <td>TBD</td>
-
 </tr>
 
 <tr>
-
 <td>12:00 PM - 1:00 PM</td>
-
 <td>Lunch</td>
-
 <td></td>
-
 </tr>
 
 <tr>
-
 <td>1:00 PM to 2:00 PM</td>
-
 <td>
 Introduction to ICESat-2
 </td>
-
-<td>TBD</td>
-
+<td>Tom Neumann</td>
 </tr>
 
 <tr>
-
 <td>2:00 PM - 3:00 PM</td>
-
 <td>Participant Introductions, Project ideas/pitching</td>
-
 <td>Everyone</td>
-
 </tr>
-
 <tr>
 
 <td>3:00 PM - 5:00 PM</td>
-
 <td>Project Work</td>
-
 <td>Everyone</td>
-
 </tr>
 
 <tr>
-
 <td>6:00 - 8:30 PM</td>
-
 <td>Welcome Reception</td>
-
 <td>Everyone</td>
-
 </tr>
 
 </tbody>
-
 </table>
 
 ### Tuesday
 
 <table>
-
 <tbody>
-
 <tr>
-
 <th>Time</th>
-
 <th>Event</th>
-
 <th>Instructors</th>
-
 </tr>
 
 <tr>
-
 <td>8:30 AM to 10:00 AM</td>
-
 <td>ICESat-2 data access</td>
-
-<td>NSIDC</td>
-
+<td>Amy Steiker</td>
 </tr>
 
 <tr>
-
 <td>10:00 - 10:30 AM</td>
-
 <td>Coffee Break</td>
-
 <td></td>
-
 </tr>
 
 <tr>
-
 <td>10:30 AM to 12:00 PM</td>
-
 <td>Data selection, filtering and consistency checking</td>
-
 <td>TBD</td>
-
 </tr>
 
 <tr>
-
 <td>12:00 PM - 1:00 PM</td>
-
 <td>Lunch</td>
-
 <td></td>
-
 </tr>
 
 <tr>
-
 <td>1:00 PM - 1:30 PM</td>
-
 <td>Acquiring external data: hands on exercise</td>
-
 <td>Everyone</td>
+</tr>
 
+
+<tr>
+<td>1:30 PM - 2:30 PM</td>
+<td>Parallel Sessions
+<ol>
+<li>Sea Ice Freeboard Products</li>
+<li>Land Ice Elevation Change Products</li>
+</ol>
+</td>
+<td>Everyone</td>
 </tr>
 
 <tr>
-
-<td>1:30 PM - 5:00 PM</td>
-
+<td>2:30 PM - 5:00 PM</td>
 <td>Project Work</td>
-
 <td>Everyone</td>
-
 </tr>
 
 </tbody>
@@ -233,65 +173,52 @@ Introduction to ICESat-2
 
 <tr>
 <td> 8:30 AM to 10:00 AM</td>
-
 <td> Acquiring Digital Elevation Models </td>
-
 <td> TBD  </td>
-
 </tr>
 
 <tr>
-
 <td>10:00 to 10:30 AM</td>
-
 <td>Coffee Break</td>
-
 <td></td>
-
 </tr>
 
 <tr> 
-
 <td> 10:30 AM to 12:00 PM </td>
-
 <td>Data corrections: reference frames, mass balance/flow models</td>
-
 <td>TBD</td>
-
 </tr>
 
 <tr>
-
 <td>12:00 PM - 1:00 PM</td>
-
 <td>Lunch</td>
-
 <td></td>
-
 </tr>
 
 <tr>
-
 <td>1:00 - 1:30 PM</td>
-
 <td>Project check-in  </td>
-
 <td> Everyone </td>
-
 </tr>
 
 <tr>
-
-<td>1:30 PM - 5:00 PM</td>
-
-<td>Project Work</td>
-
+<td>1:30 PM - 2:30 PM</td>
+<td>Parallel Sessions
+<ol>
+<li>Sea Ice Thickness</li>
+<li>Effects of cloud cover on retrievals</li>
+</ol>
+</td>
 <td>Everyone</td>
+</tr>
 
+<tr>
+<td>2:30 PM - 5:00 PM</td>
+<td>Project Work</td>
+<td>Everyone</td>
 </tr>
 
 </tbody>
-
 </table>
 
 ### Thursday
@@ -305,73 +232,56 @@ Introduction to ICESat-2
 </tr>
 
 <tr>
-
 <td>8:30 AM to 10:00 AM</td>
-
 <td>Gridding: making a DEM from ICESat-2 data</td>
-
 <td>TBD</td>
-
 </tr>
 
 <tr>
-
 <td>10:00 - 10:30 AM</td>
-
 <td>Coffee Break</td>
-
 <td></td>
-
 </tr>
 
 <tr>
-
 <td>10:30 - 11:30 PM</td>
-
 <td>Overview of altimetry difference products</td>
-
 <td>TBD</td>
-
 </tr>
 
 <tr>
-
 <td>11:30 - 12:00 PM</td>
-
 <td>Data assimilation lecture</td>
-
 <td>TBD</td>
-
 </tr>
 
 <tr>
-
 <td>12:00 PM - 1:00 PM</td>
-
 <td>Lunch</td>
-
 <td></td>
-
 </tr>
 
 <tr>
-
 <td>1:00 PM - 1:30 PM</td>
-
 <td>Project check-in</td>
-
 <td></td>
-
 </tr>
 
 <tr>
+<td>1:30 PM - 2:30 PM</td>
+<td>Parallel Sessions
+<ol>
+<li>Surface Roughness over Sea Ice</li>
+<li>TBD</li>
+</ol>
+</td>
+<td>Everyone</td>
+</tr>
 
-<td> 1:30 PM - 5:00 PM</td>
-
+<tr>
+<td> 2:30 PM - 5:00 PM</td>
 <td>Project Work</td>
-
 <td> </td>
-
 </tr>
 
 </tbody>
@@ -388,62 +298,42 @@ Introduction to ICESat-2
 </tr>
 
 <tr>
-
 <td>8:30 am - 10:00 AM </td>
 <td>Open Tutorial Session</td>
 <td>TBD</td>
 </tr>
 
 <tr>
-
 <td>10:00 - 10:30 AM</td>
-
 <td>Coffee Break</td>
-
 <td></td>
-
 </tr>
 
 <tr>
-
 <td>10:30 AM - 12:00 PM </td>
-
-<td><a href="https://geohackweek.github.io/reproducible-research/01-reproducible/">Best Practices: Reproducible Research</a> - <a href="https://youtu.be/fYc7gzdcN4o"> video </a></td>
-
+<td>Best Practices: Reproducible Research</td>
 <td> TBD </td>
-
 </tr>
 
 <tr>
-
 <td>12:00 PM - 1:00 PM</td>
-
 <td>Lunch</td>
-
 <td></td>
-
 </tr>
 
 <tr>
-
 <td>1:00 PM - 1:30 PM</td>
-
 <td>hackweek survey</td>
-
 <td></td>
-
 </tr>
 
 <tr>
-
 <td>1:30 PM - 4:00 PM</td>
-
 <td>Project Presentations</td>
-
 <td></td>
-
 </tr>
 
 </tbody>
-
 </table>
+
+
