@@ -75,21 +75,19 @@ team:
       image_url: https://avatars0.githubusercontent.com/u/539688?s=460&v=4
       github_user: fspaolo
 
-  - - name: Jochem Mayer
+  - - name: Joachim Meyer
       title: Graduate Student 
       affiliate: University of Utah 
-      image_url: 
-      github_user: 
+      image_url: https://avatars2.githubusercontent.com/u/178649?s=400&v=4
+      github_user: jomey
 
     - name: Amy Steiker
-      title: Research Scientist 
+      title: Data Support Specialist 
       affiliate: National Snow and Ice Data Center 
-      image_url: 
-      github_user: 
+      image_url: /assets/images/AmySteiker.png
  
     - name: Tom Neumann
       title: Research Scientist 
       affiliate: NASA Goddard Space Flight Center 
-      image_url: 
-      github_user: 
+      image_url: /assets/images/TomNeumann.jpg
 ---
