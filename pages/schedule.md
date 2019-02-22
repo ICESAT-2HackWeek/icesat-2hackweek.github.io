@@ -91,7 +91,6 @@ Introduction to ICESat-2
 <td>Project ideas/pitching</td>
 <td>Everyone</td>
 </tr>
-<tr>
 
 <tr>
 <td>4:00 PM - 5:00 PM</td>
