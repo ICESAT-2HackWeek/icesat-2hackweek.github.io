@@ -35,7 +35,6 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 </tr>
 
 <tr>
-
 <td>8:30 - 9:15 AM</td>
 <td>Welcome to the hackweek</td>
 <td>adminstrative team </td>
@@ -73,10 +72,8 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 
 <tr>
 <td>1:00 PM to 2:00 PM</td>
-<td>
-Introduction to ICESat-2
-</td>
-<td>Tom Neumann</td>
+<td> Introduction to ICESat-2</td>
+<td>Tom Neumann, Ron Quok</td>
 </tr>
 
 <tr>
@@ -84,7 +81,6 @@ Introduction to ICESat-2
 <td>Description of existing ICESat-2 open science tools</td>
 <td>Everyone</td>
 </tr>
-<tr>
 
 <tr>
 <td>3:00 PM - 4:00 PM </td>
