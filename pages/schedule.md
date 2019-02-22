@@ -315,8 +315,8 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 
 <tr>
 <td>10:30 AM - 12:00 PM </td>
-<td>Best Practices: Reproducible Research</td>
-<td> Joe Meyer / Fernando Perez </td>
+<td>TBD</td>
+<td> TBD </td>
 </tr>
 
 <tr>
