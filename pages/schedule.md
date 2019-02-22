@@ -80,13 +80,21 @@ Introduction to ICESat-2
 
 <tr>
 <td>2:00 PM - 3:00 PM</td>
-<td>Participant Introductions, Project ideas/pitching</td>
+<td>Description of existing ICESat-2 open science tools</td>
 <td>Everyone</td>
 </tr>
 <tr>
 
-<td>3:00 PM - 5:00 PM</td>
-<td>Project Work</td>
+<tr>
+<td>3:00 PM - 4:00 PM </td>
+<td>Project ideas/pitching</td>
+<td>Everyone</td>
+</tr>
+<tr>
+
+<tr>
+<td>4:00 PM - 5:00 PM</td>
+<td>Project Work / group formation </td>
 <td>Everyone</td>
 </tr>
 
@@ -124,7 +132,7 @@ Introduction to ICESat-2
 <tr>
 <td>10:30 AM to 12:00 PM</td>
 <td>Data selection, filtering and consistency checking</td>
-<td>TBD</td>
+<td>David Shean</td>
 </tr>
 
 <tr>
@@ -173,7 +181,7 @@ Introduction to ICESat-2
 
 <tr>
 <td> 8:30 AM to 10:00 AM</td>
-<td> Acquiring Digital Elevation Models </td>
+<td> Vector data manipulation: selecting DEMs from an index </td>
 <td> TBD  </td>
 </tr>
 
@@ -185,7 +193,7 @@ Introduction to ICESat-2
 
 <tr> 
 <td> 10:30 AM to 12:00 PM </td>
-<td>Data corrections: reference frames, mass balance/flow models</td>
+<td>Data corrections: mass balance/flow models</td>
 <td>TBD</td>
 </tr>
 
@@ -233,8 +241,8 @@ Introduction to ICESat-2
 
 <tr>
 <td>8:30 AM to 10:00 AM</td>
-<td>Gridding: making a DEM from ICESat-2 data</td>
-<td>TBD</td>
+<td>Gridding</td>
+<td>Fernando Paolo / Johan Nilsson</td>
 </tr>
 
 <tr>
@@ -245,8 +253,8 @@ Introduction to ICESat-2
 
 <tr>
 <td>10:30 - 11:30 PM</td>
-<td>Overview of altimetry difference products</td>
-<td>TBD</td>
+<td>Overview of altimetry difference products and techniques</td>
+<td>Fernando Paolo / Johan Nilsson / Ben Smith </td>
 </tr>
 
 <tr>
