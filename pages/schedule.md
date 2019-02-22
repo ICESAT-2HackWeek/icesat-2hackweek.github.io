@@ -42,14 +42,9 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 </tr>
 
 <tr>
-<td>9:15 - 10:30 AM</td>
-<td><a href="https://geohackweek.github.io/datasharing/">Data Sharing and Collaboration Tools</a>
-<ul>
-    <li>Jupyter Notebooks</li>
-    <li>Cloud environments for tutorial</li>
-</ul>
-</td>
-<td>Amanda Tan, Fernando Perez</td>
+<td>9:15 - 10:30 AM </td>
+<td>Reproducible Research: motivation and best practices</td>
+<td> Joe Meyer / Fernando Perez </td>
 </tr>
 
 <tr>
@@ -59,9 +54,15 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 </tr>
 
 <tr>
-<td>11:00 AM - 12:00 AM</td>
-<td><a href="https://geohackweek.github.io/Introductory/03-git-tutorial/">Git/GitHub</a></td>
-<td>TBD</td>
+<td> 11:00 AM - 12:00 PM</td>
+<td><a href="https://geohackweek.github.io/datasharing/">Collaboration Tools</a>
+<ul>
+    <li>Jupyter Notebooks</li>
+    <li>Cloud environments for tutorial</li>
+    <li>Intro to Git/GitHub</li>
+</ul>
+</td>
+<td>Amanda Tan, Fernando Perez</td>
 </tr>
 
 <tr>
@@ -320,7 +321,7 @@ Introduction to ICESat-2
 <tr>
 <td>10:30 AM - 12:00 PM </td>
 <td>Best Practices: Reproducible Research</td>
-<td> TBD </td>
+<td> Joe Meyer / Fernando Perez </td>
 </tr>
 
 <tr>
