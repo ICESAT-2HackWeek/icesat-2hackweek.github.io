@@ -92,5 +92,11 @@ team:
       image_url: http://essic.umd.edu/joom2/media/com_etree/users/761_1.jpeg
       github_user: akpetty
 
+  - - name: Nick Holschuh
+      title: Postdoctoral Scholar
+      affiliate: <a href="nholschuh.com">Department of Earth and Space Sciences, UW</a>
+      image_url: /assets/images/NickHolschuh.png
+      github_user: nholschuh
+
 
 ---
