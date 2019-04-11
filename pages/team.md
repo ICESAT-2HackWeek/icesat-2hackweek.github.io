@@ -94,7 +94,7 @@ team:
 
   - - name: Nick Holschuh
       title: Postdoctoral Scholar
-      affiliate: <a href="nholschuh.com">Department of Earth and Space Sciences, UW</a>
+      affiliate: <a href="http://nholschuh.com">Department of Earth and Space Sciences, UW</a>
       image_url: /assets/images/NickHolschuh.png
       github_user: nholschuh
 
