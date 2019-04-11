@@ -9,12 +9,13 @@ description: Schedule
 
 All tutorials and hacking sessions are located at the <a href="https://www.google.com/maps/place/Odegaard+Undergraduate+Library/@47.6564842,-122.3125576,17z/data=!3m1!4b1!4m5!3m4!1s0x549014f329bffff7:0x6efe7422cf2f2f93!8m2!3d47.6564806!4d-122.3103636">Odegaard Undergraduate Library</a> on the University of Washington campus.
 
-<!---
-## Pre-event tutorial
+## Pre-event preparation
 
-Please work through this <a href ="https://icesat-2hackweek.github.io/preliminary/">Preliminary tutorial</a> in advance of this event!
+<!--
+Please work through this <a href ="https://geohackweek.github.io/preliminary/">Preliminary tutorial</a> in advance of geohackweek!
+-->
 
---->
+If you would like to brush up on your data science skills, visit this list of ou recommended <a href="https://github.com/uwescience/Online-Educational-Resources"> Online Educational Resources</a>.
 
 ## Schedule
 
