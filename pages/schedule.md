@@ -74,7 +74,7 @@ If you would like to brush up on your data science skills, visit this list of ou
 <tr>
 <td>1:00 PM to 2:00 PM</td>
 <td> Introduction to ICESat-2</td>
-<td>Tom Neumann, Ron Quok</td>
+<td>Tom Neumann, Ron Kwok</td>
 </tr>
 
 <tr>
