@@ -153,7 +153,11 @@ If you would like to brush up on your data science skills, visit this list of ou
 <li>Land Ice Elevation Change Products</li>
 </ol>
 </td>
-<td>Everyone</td>
+<td><ol>
+<li>Ron Kwok</li>
+<li>Ben Smith</li>
+</ol>
+</td>
 </tr>
 
 <tr>
@@ -178,7 +182,7 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <tr>
 <td> 8:30 AM to 10:00 AM</td>
-<td> Vector data manipulation: selecting DEMs from an index </td>
+<td> Vector data manipulation </td>
 <td> TBD  </td>
 </tr>
 
