@@ -195,7 +195,7 @@ If you would like to brush up on your data science skills, visit this list of ou
 <tr> 
 <td> 10:30 AM to 12:00 PM </td>
 <td>Data corrections: mass balance/flow models</td>
-<td>TBD</td>
+<td>Susheel Adusumilli</td>
 </tr>
 
 <tr>
