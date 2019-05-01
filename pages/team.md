@@ -98,11 +98,16 @@ team:
       image_url: /assets/images/NickHolschuh.png
       github_user: nholschuh
 
-  - - name: Matthew Siegfried
+    - name: Matthew Siegfried
       title: Assistant Professor
       affiliate: <a href="http://www.minesglaciology.com">Department of Geophysics, Colorado School of Mines</a>
       image_url: https://ytq142ajmv7461kcq34og4r6-wpengine.netdna-ssl.com/wp-content/uploads/sites/30/2018/10/siegfried-1.jpg
       github_user: mrsiegfried
 
+    - name: Suzanne Dickinson
+      title: Oceanographer IV
+      affiliate: <a href="https://www.apl.washington.edu/people/profile.php?last_name=Dickinson&first_name=Suzanne">Applied Physics Lab, UW</a>
+      image_url: /assets/images/SuzanneDickinson.JPG
+      github_user: 
 
 ---
