@@ -36,15 +36,15 @@ If you would like to brush up on your data science skills, visit this list of ou
 </tr>
 
 <tr>
-<td>8:30 - 9:15 AM</td>
+<td>8:30 - 9:00 AM</td>
 <td>Welcome to the hackweek</td>
 <td>adminstrative team </td>
 </tr>
 
 <tr>
-<td>9:15 - 10:30 AM </td>
-<td>Reproducible Research: motivation and best practices</td>
-<td> Joe Meyer / Fernando Perez </td>
+<td>9:00 - 10:30 AM </td>
+<td> Introduction to GitHub </td>
+<td> Fernando Perez, Joe Meyer </td>
 </tr>
 
 <tr>
@@ -55,14 +55,8 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <tr>
 <td> 11:00 AM - 12:00 PM</td>
-<td><a href="https://geohackweek.github.io/datasharing/">Collaboration Tools</a>
-<ul>
-    <li>Jupyter Notebooks</li>
-    <li>Cloud environments for tutorial</li>
-    <li>Intro to Git/GitHub</li>
-</ul>
-</td>
-<td>Amanda Tan, Fernando Perez</td>
+<td> Introduction to Jupyter and cloud computing environments</td>
+<td>Fernando Perez, Amanda Tan, Joe Meyer</td>
 </tr>
 
 <tr>
@@ -154,7 +148,7 @@ If you would like to brush up on your data science skills, visit this list of ou
 </ol>
 </td>
 <td><ol>
-<li>Ron Kwok</li>
+<li>Alek Petty</li>
 <li>Ben Smith</li>
 </ol>
 </td>
@@ -182,8 +176,8 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <tr>
 <td> 8:30 AM to 10:00 AM</td>
-<td> Geospatial Tools and Operations </td>
-<td> TBD  </td>
+<td> Collaboration tools revisited: Git/GitHub/Jupyter </td>
+<td> Fernando Perez, Joe Meyer </td>
 </tr>
 
 <tr>
@@ -194,8 +188,8 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <tr> 
 <td> 10:30 AM to 12:00 PM </td>
-<td>Data corrections: mass balance/flow models</td>
-<td>Susheel Adusumilli</td>
+<td>Geospatial Tools and Operations </td>
+<td>TBD</td>
 </tr>
 
 <tr>
@@ -241,9 +235,26 @@ If you would like to brush up on your data science skills, visit this list of ou
 </tr>
 
 <tr>
-<td>8:30 AM to 10:00 AM</td>
-<td>Gridding</td>
-<td>Fernando Paolo / Johan Nilsson</td>
+<td>8:30 AM to 9:00 AM</td>
+<td>General tools for data correction </td>
+<td>Susheel Adusumilli, Alek Petty</td>
+</tr>
+
+
+<tr>
+<td>9:00 AM - 10:00 AM</td>
+<td>Parallel Sessions
+<ol>
+<li>Land-ice data correction (mass balance/flow models)</li>
+<li>Sea-ice data correction (freeboard)</li>
+</ol>
+</td>
+<td>
+<ol>
+<li>Susheel Adusumilli</li>
+<li>Alex Petty</li>
+</ol>
+</td>
 </tr>
 
 <tr>
@@ -254,8 +265,8 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <tr>
 <td>10:30 - 11:30 PM</td>
-<td>Overview of altimetry difference products and techniques</td>
-<td>Fernando Paolo / Johan Nilsson / Ben Smith </td>
+<td>Gridding </td>
+<td>Fernando Paolo, Johan Nilsson </td>
 </tr>
 
 <tr>
@@ -308,8 +319,8 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <tr>
 <td>8:30 am - 10:00 AM </td>
-<td>Open Tutorial Session</td>
-<td>TBD</td>
+<td>Overview of altimetry difference products and techniques</td>
+<td>Ben Smith, Fernando Paolo, Johan Nilsson </td>
 </tr>
 
 <tr>
@@ -320,8 +331,8 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <tr>
 <td>10:30 AM - 12:00 PM </td>
-<td>TBD</td>
-<td> TBD </td>
+<td>Open Tutorial Session</td>
+<td> Participants</td>
 </tr>
 
 <tr>
