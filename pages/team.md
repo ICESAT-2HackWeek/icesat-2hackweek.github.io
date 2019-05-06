@@ -108,6 +108,6 @@ team:
       title: Oceanographer IV
       affiliate: <a href="https://www.apl.washington.edu/people/profile.php?last_name=Dickinson&first_name=Suzanne">Applied Physics Lab, UW</a>
       image_url: /assets/images/SuzanneDickinson.JPG
-      github_user: 
+      github_user: suzanne64
 
 ---
