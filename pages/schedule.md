@@ -56,7 +56,7 @@ If you would like to brush up on your data science skills, visit this list of ou
 <tr>
 <td> 11:00 AM - 12:00 PM</td>
 <td> Introduction to Jupyter and cloud computing environments</td>
-<td>Fernando Perez, Amanda Tan, Joe Meyer</td>
+<td>Fernando Perez</td>
 </tr>
 
 <tr>
@@ -66,13 +66,13 @@ If you would like to brush up on your data science skills, visit this list of ou
 </tr>
 
 <tr>
-<td>1:00 - 2:00 PM</td>
+<td>1:00 - 2:15 PM</td>
 <td> Introduction to ICESat-2</td>
 <td>Tom Neumann, Ron Kwok</td>
 </tr>
 
 <tr>
-<td>2:00 - 3:00 PM</td>
+<td>2:15 - 3:00 PM</td>
 <td>Description of existing ICESat-2 open science tools</td>
 <td>Everyone</td>
 </tr>
@@ -177,7 +177,7 @@ If you would like to brush up on your data science skills, visit this list of ou
 <tr>
 <td> 8:30 - 10:00 AM</td>
 <td> Collaboration tools revisited: Git/GitHub/Jupyter </td>
-<td> Fernando Perez, Joe Meyer </td>
+<td> Fernando Perez</td>
 </tr>
 
 <tr>
