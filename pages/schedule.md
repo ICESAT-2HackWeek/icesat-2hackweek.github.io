@@ -142,14 +142,10 @@ If you would like to brush up on your data science skills, visit this list of ou
 <tr>
 <td>1:30 - 2:30 PM</td>
 <td>Parallel Sessions
-<ol>
-<li>Sea Ice Freeboard Products</li>
-<li>Land Ice Elevation Change Products</li>
-</ol>
+Effect of cloud cover on ICESat-2 Products
 </td>
 <td><ol>
-<li>Alek Petty</li>
-<li>Ben Smith</li>
+<li>Ben Smith, TBD</li>
 </ol>
 </td>
 </tr>
@@ -208,11 +204,16 @@ If you would like to brush up on your data science skills, visit this list of ou
 <td>1:30 - 2:30 PM</td>
 <td>Parallel Sessions
 <ol>
-<li>Sea Ice Thickness</li>
-<li>Effects of cloud cover on retrievals</li>
+<li>Sea Ice 1: Sea Ice Free Board Products</li>
+<li>Land Ice 1: Land Elevation Change Products</li>
 </ol>
 </td>
-<td>TBD</td>
+<td>
+<ol>
+<li>Alek Petty</li>
+<li>Ben Smith</li>
+</ol>
+</td>
 </tr>
 
 <tr>
@@ -245,8 +246,8 @@ If you would like to brush up on your data science skills, visit this list of ou
 <td>9:00 - 10:00 AM</td>
 <td>Parallel Sessions
 <ol>
-<li>Land-ice data correction (mass balance/flow models)</li>
-<li>Sea-ice data correction (freeboard)</li>
+<li>Land-ice 2: Correction/Applications (mass balance/flow models)</li>
+<li>Sea-ice 2: Sea Ice Thickness </li>
 </ol>
 </td>
 <td>
@@ -291,11 +292,16 @@ If you would like to brush up on your data science skills, visit this list of ou
 <td>1:30 - 2:30 PM</td>
 <td>Parallel Sessions
 <ol>
-<li>Surface Roughness over Sea Ice</li>
-<li>TBD</li>
+<li>Sea Ice 3: Surface Roughness over Sea Ice </li>
+<li>Land Ice 3: Overview of Altimetry Differences</li>
 </ol>
 </td>
-<td>Everyone</td>
+<td>
+<ol>
+<li>Alek Petty</li>
+<li>Ben Smith, Fernando Paolo, Johan Nilsson</li>
+</ol>
+</td>
 </tr>
 
 <tr>
@@ -319,8 +325,8 @@ If you would like to brush up on your data science skills, visit this list of ou
 
 <tr>
 <td>8:30 - 10:00 AM </td>
-<td>Overview of altimetry difference products and techniques</td>
-<td>Ben Smith, Fernando Paolo, Johan Nilsson </td>
+<td>Open Tutorial Session</td>
+<td>Participants</td>
 </tr>
 
 <tr>
