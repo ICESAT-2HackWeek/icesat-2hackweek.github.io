@@ -78,7 +78,13 @@ If you would like to brush up on your data science skills, visit this list of ou
 </tr>
 
 <tr>
-<td>3:00 - 4:00 PM </td>
+<td>3:00 - 3:15 PM </td>
+<td>Coffee Break</td>
+<td></td>
+</tr>
+
+<tr>
+<td>3:15 - 4:00 PM </td>
 <td>Project ideas/pitching</td>
 <td>Everyone</td>
 </tr>
@@ -90,8 +96,8 @@ If you would like to brush up on your data science skills, visit this list of ou
 </tr>
 
 <tr>
-<td>6:00 - 8:30 PM</td>
-<td>Welcome Reception</td>
+<td>5:00 - 7:00 PM</td>
+<td>Happy Hour Gathering in South Campus Center</td>
 <td>Everyone</td>
 </tr>
 
@@ -152,7 +158,7 @@ Effect of cloud cover on ICESat-2 Products
 
 <tr>
 <td>2:30 - 5:00 PM</td>
-<td>Project Work</td>
+<td>Project Work (coffee break at 3 PM)</td>
 <td>Everyone</td>
 </tr>
 
@@ -218,7 +224,7 @@ Effect of cloud cover on ICESat-2 Products
 
 <tr>
 <td>2:30 - 5:00 PM</td>
-<td>Project Work</td>
+<td>Project Work (Coffee break at 3 PM)</td>
 <td>Everyone</td>
 </tr>
 
@@ -306,7 +312,7 @@ Effect of cloud cover on ICESat-2 Products
 
 <tr>
 <td> 2:30 - 5:00 PM</td>
-<td>Project Work</td>
+<td>Project Work (Coffee break at 3 PM)</td>
 <td> </td>
 </tr>
 
