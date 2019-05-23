@@ -7,15 +7,11 @@ description: Schedule
 
 ## Location
 
-All tutorials and hacking sessions are located at the <a href="https://www.google.com/maps/place/Odegaard+Undergraduate+Library/@47.6564842,-122.3125576,17z/data=!3m1!4b1!4m5!3m4!1s0x549014f329bffff7:0x6efe7422cf2f2f93!8m2!3d47.6564806!4d-122.3103636">Odegaard Undergraduate Library</a> on the University of Washington campus.
+All tutorials and hacking sessions are located at the <a href="https://www.google.com/maps/place/Odegaard+Undergraduate+Library/@47.6564842,-122.3125576,17z/data=!3m1!4b1!4m5!3m4!1s0x549014f329bffff7:0x6efe7422cf2f2f93!8m2!3d47.6564806!4d-122.3103636">South Campus Center</a> on the University of Washington campus.
 
 ## Pre-event preparation
 
-<!--
-Please work through this <a href ="https://geohackweek.github.io/preliminary/">Preliminary tutorial</a> in advance of geohackweek!
--->
-
-If you would like to brush up on your data science skills, visit this list of ou recommended <a href="https://github.com/uwescience/Online-Educational-Resources"> Online Educational Resources</a>.
+Please work through this <a href ="https://icesat-2hackweek.github.io/preliminary/">Preliminary tutorial</a> in advance of the hackweek!
 
 ## Schedule
 
@@ -41,10 +37,11 @@ If you would like to brush up on your data science skills, visit this list of ou
 <td>adminstrative team </td>
 </tr>
 
+
 <tr>
-<td>9:00 - 10:30 AM </td>
-<td> Introduction to GitHub </td>
-<td> Fernando Perez, Joe Meyer </td>
+<td>9:00 - 10:30 AM</td>
+<td> Introduction to ICESat-2</td>
+<td>Tom Neumann, Ron Kwok</td>
 </tr>
 
 <tr>
@@ -54,9 +51,9 @@ If you would like to brush up on your data science skills, visit this list of ou
 </tr>
 
 <tr>
-<td> 11:00 AM - 12:00 PM</td>
-<td> Introduction to Jupyter and cloud computing environments</td>
-<td>Fernando Perez</td>
+<td>11:00 - 12:00 PM </td>
+<td> Introduction to GitHub </td>
+<td> Fernando Perez, Joe Meyer </td>
 </tr>
 
 <tr>
@@ -66,15 +63,15 @@ If you would like to brush up on your data science skills, visit this list of ou
 </tr>
 
 <tr>
-<td>1:00 - 2:15 PM</td>
-<td> Introduction to ICESat-2</td>
-<td>Tom Neumann, Ron Kwok</td>
+<td> 1:00 PM - 2:30 PM</td>
+<td> Introduction to Jupyter and cloud computing environments</td>
+<td>Fernando Perez</td>
 </tr>
 
 <tr>
-<td>2:15 - 3:00 PM</td>
-<td>Description of existing ICESat-2 open science tools</td>
-<td>Everyone</td>
+<td>2:30 - 3:00 PM </td>
+<td>Project ideas/pitching</td>
+<td>Everyone, Anthony lead</td>
 </tr>
 
 <tr>
@@ -84,13 +81,7 @@ If you would like to brush up on your data science skills, visit this list of ou
 </tr>
 
 <tr>
-<td>3:15 - 4:00 PM </td>
-<td>Project ideas/pitching</td>
-<td>Everyone</td>
-</tr>
-
-<tr>
-<td>4:00 - 5:00 PM</td>
+<td>3:15 - 5:00 PM</td>
 <td>Project Work / group formation </td>
 <td>Everyone</td>
 </tr>
