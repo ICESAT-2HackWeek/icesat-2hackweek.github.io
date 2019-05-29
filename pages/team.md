@@ -110,4 +110,10 @@ team:
       image_url: /assets/images/SuzanneDickinson.JPG
       github_user: suzanne64
 
+- - name: Maya Becker
+      title: Graduate Student
+      affiliate: <a href="http://glaciology.weebly.com/">Scripps Glaciology Group, UCSD</a>
+      image_url: /assets/images/MayaBecker.png
+      github_user: mayakbecker
+
 ---
