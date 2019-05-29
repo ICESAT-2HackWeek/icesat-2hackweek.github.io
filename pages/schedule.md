@@ -7,7 +7,7 @@ description: Schedule
 
 ## Location
 
-All tutorials and hacking sessions are located at the <a href="https://www.google.com/maps/place/Odegaard+Undergraduate+Library/@47.6564842,-122.3125576,17z/data=!3m1!4b1!4m5!3m4!1s0x549014f329bffff7:0x6efe7422cf2f2f93!8m2!3d47.6564806!4d-122.3103636">South Campus Center</a> on the University of Washington campus.
+All tutorials and hacking sessions are located at the <a href="https://www.google.com/maps/place/UW+South+Campus+Center/@47.6495125,-122.3129915,17z/data=!3m1!4b1!4m5!3m4!1s0x549014ec0573d0fd:0x92c36f77d79c29d7!8m2!3d47.6495089!4d-122.3107975">South Campus Center</a> on the University of Washington campus.
 
 ## Pre-event preparation
 
@@ -41,7 +41,7 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 <tr>
 <td>9:00 - 10:30 AM</td>
 <td> Introduction to ICESat-2</td>
-<td>Tom Neumann, Ron Kwok</td>
+<td>Tom Neumann, Ron Kwok, Ben Smith</td>
 </tr>
 
 <tr>
@@ -53,7 +53,7 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 <tr>
 <td>11:00 - 12:00 PM </td>
 <td> Introduction to GitHub </td>
-<td> Fernando Perez, Joe Meyer </td>
+<td> Fernando Perez </td>
 </tr>
 
 <tr>
@@ -119,7 +119,7 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 
 <tr>
 <td>10:30 AM - 12:00 PM</td>
-<td>Data selection, filtering and consistency checking</td>
+<td>Data analytics: projection, aggregation, filtering and visualization</td>
 <td>David Shean</td>
 </tr>
 
@@ -142,7 +142,7 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 Effect of cloud cover on ICESat-2 Products
 </td>
 <td><ol>
-<li>Ben Smith, TBD</li>
+<li>Ben Smith</li>
 </ol>
 </td>
 </tr>
@@ -181,8 +181,8 @@ Effect of cloud cover on ICESat-2 Products
 
 <tr> 
 <td> 10:30 - 12:00 PM </td>
-<td>Geospatial Tools and Operations </td>
-<td>TBD</td>
+<td>Working with HDF5 and ICESat-2 data formats</td>
+<td>Fernando Paolo</td>
 </tr>
 
 <tr>
@@ -233,14 +233,7 @@ Effect of cloud cover on ICESat-2 Products
 </tr>
 
 <tr>
-<td>8:30 - 9:00 AM</td>
-<td>General tools for data correction </td>
-<td>Susheel Adusumilli, Alek Petty</td>
-</tr>
-
-
-<tr>
-<td>9:00 - 10:00 AM</td>
+<td>8:30 - 10:00 AM</td>
 <td>Parallel Sessions
 <ol>
 <li>Land-ice 2: Correction/Applications (mass balance/flow models)</li>
@@ -249,7 +242,7 @@ Effect of cloud cover on ICESat-2 Products
 </td>
 <td>
 <ol>
-<li>Susheel Adusumilli</li>
+<li>Maya Becker</li>
 <li>Alek Petty</li>
 </ol>
 </td>
@@ -263,14 +256,14 @@ Effect of cloud cover on ICESat-2 Products
 
 <tr>
 <td>10:30 - 11:30 PM</td>
-<td>Gridding </td>
-<td>Fernando Paolo, Johan Nilsson </td>
+<td>Gridding</td>
+<td>Johan Nilsson</td>
 </tr>
 
 <tr>
 <td>11:30 - 12:00 PM</td>
-<td>Data assimilation lecture</td>
-<td>TBD</td>
+<td>Data assimilation and modeling</td>
+<td>Daniel Shapero</td>
 </tr>
 
 <tr>
