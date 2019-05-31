@@ -119,7 +119,7 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 
 <tr>
 <td>10:30 AM - 12:00 PM</td>
-<td>Data analytics: projection, aggregation, filtering and visualization</td>
+<td>Geospatial analysis: projection, aggregation, filtering and visualization</td>
 <td>David Shean</td>
 </tr>
 
