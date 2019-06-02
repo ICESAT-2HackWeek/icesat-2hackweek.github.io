@@ -138,12 +138,11 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 
 <tr>
 <td>1:30 - 2:30 PM</td>
-<td>Parallel Sessions
+<td>
 Effect of cloud cover on ICESat-2 Products
 </td>
-<td><ol>
-<li>Ben Smith</li>
-</ol>
+<td>
+Ben Smith
 </td>
 </tr>
 
