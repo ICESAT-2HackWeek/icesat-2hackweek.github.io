@@ -107,7 +107,7 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 
 <tr>
 <td>8:30 - 10:00 AM</td>
-<td>ICESat-2 data access</td>
+<td><a href="https://github.com/ICESAT-2HackWeek/data-access">ICESat-2 data access</a></td>
 <td>Amy Steiker</td>
 </tr>
 
@@ -180,7 +180,7 @@ Ben Smith
 
 <tr> 
 <td> 10:30 - 12:00 PM </td>
-<td>Working with HDF5 and ICESat-2 data formats</td>
+<td><a href="https://github.com/ICESAT-2HackWeek/intro-hdf5">Working with HDF5 and ICESat-2 data formats</a></td>
 <td>Fernando Paolo</td>
 </tr>
 
@@ -200,7 +200,7 @@ Ben Smith
 <td>1:30 - 2:30 PM</td>
 <td>Parallel Sessions
 <ol>
-<li>Sea Ice 1: Sea Ice Free Board Products</li>
+<li><a href="https://github.com/ICESAT-2HackWeek/sea-ice-tutorials">Sea Ice 1: Sea Ice Free Board Products</a></li>
 <li>Land Ice 1: Land Elevation Change Products</li>
 </ol>
 </td>
