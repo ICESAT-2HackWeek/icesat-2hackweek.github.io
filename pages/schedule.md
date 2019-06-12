@@ -70,7 +70,7 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 
 <tr>
 <td>2:30 - 3:00 PM </td>
-<td>Project ideas/pitching</td>
+<td><a href="https://icesat-2hackweek.github.io/wiki/project_guidelines.html">Project ideas/pitching</a></td>
 <td>Everyone, Anthony lead</td>
 </tr>
 
