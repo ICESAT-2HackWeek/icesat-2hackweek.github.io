@@ -32,27 +32,27 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 </tr>
 
 <tr>
-<td>8:30 - 9:00 AM</td>
+<td>8:30 - 9:15 AM</td>
 <td>Welcome to the hackweek</td>
 <td>adminstrative team </td>
 </tr>
 
 
 <tr>
-<td>9:00 - 10:30 AM</td>
+<td>9:15 - 10:45 AM</td>
 <td> Introduction to ICESat-2</td>
 <td>Tom Neumann, Ron Kwok, Ben Smith</td>
 </tr>
 
 <tr>
-<td>10:30 - 11:00 AM</td>
-<td>Icebreaker activity and coffee break</td>
+<td>10:45 - 11:00 AM</td>
+<td>Coffee break</td>
 <td></td>
 </tr>
 
 <tr>
 <td>11:00 - 12:00 PM </td>
-<td> Introduction to GitHub </td>
+<td> <a href="https://github.com/ICESAT-2HackWeek/intro-jupyter-git">Introduction to GitHub</a> </td>
 <td> Fernando Perez </td>
 </tr>
 
@@ -64,7 +64,7 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 
 <tr>
 <td> 1:00 PM - 2:30 PM</td>
-<td> Introduction to Jupyter and cloud computing environments</td>
+<td><a href="https://github.com/ICESAT-2HackWeek/intro-jupyter-git">Introduction to Jupyter and cloud computing environments</a></td>
 <td>Fernando Perez</td>
 </tr>
 
@@ -168,7 +168,7 @@ Ben Smith
 
 <tr>
 <td> 8:30 - 10:00 AM</td>
-<td> Collaboration tools revisited: Git/GitHub/Jupyter </td>
+<td> <a href="https://github.com/ICESAT-2HackWeek/intro-jupyter-git">Collaboration tools revisited: Git/GitHub/Jupyter </a></td>
 <td> Fernando Perez</td>
 </tr>
 
