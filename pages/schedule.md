@@ -52,7 +52,7 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 
 <tr>
 <td>11:00 - 12:00 PM </td>
-<td> <a href="https://github.com/ICESAT-2HackWeek/intro-jupyter-git">Introduction to GitHub</a> </td>
+<td> <a href="https://github.com/ICESAT-2HackWeek/intro-jupyter-git">IPython and Jupyter</a> </td>
 <td> Fernando Perez </td>
 </tr>
 
@@ -64,7 +64,7 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 
 <tr>
 <td> 1:00 PM - 2:30 PM</td>
-<td><a href="https://github.com/ICESAT-2HackWeek/intro-jupyter-git">Introduction to Jupyter and cloud computing environments</a></td>
+<td><a href="https://github.com/ICESAT-2HackWeek/intro-jupyter-git">Git version control / collaboration on GitHub</a></td>
 <td>Fernando Perez</td>
 </tr>
 
@@ -117,11 +117,19 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 <td></td>
 </tr>
 
-<tr>
-<td>10:30 AM - 12:00 PM</td>
-<td>Geospatial analysis: projection, aggregation, filtering and visualization</td>
-<td>David Shean</td>
+<tr> 
+<td> 10:30 - 11:15 AM </td>
+<td><a href="https://github.com/ICESAT-2HackWeek/intro-hdf5">Introduction to HDF5 data model</a></td>
+<td>Fernando Paolo</td>
 </tr>
+
+
+<tr> 
+<td> 11:15 - 12:00 PM </td>
+<td><a href="https://github.com/ICESAT-2HackWeek/Clouds_and_data_filtering">Clouds and data filtering</a></td>
+<td>Ben Smith</td>
+</tr>
+
 
 <tr>
 <td>12:00 - 1:00 PM</td>
@@ -131,20 +139,10 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 
 <tr>
 <td>1:00 - 1:30 PM</td>
-<td>Acquiring external data: hands on exercise</td>
-<td>Everyone</td>
+<td><a href="https://github.com/ICESAT-2HackWeek/Clouds_and_data_filtering">Clouds and data filtering</a></td>
+<td>Ben Smith</td>
 </tr>
 
-
-<tr>
-<td>1:30 - 2:30 PM</td>
-<td>
-Effect of cloud cover on ICESat-2 Products
-</td>
-<td>
-Ben Smith
-</td>
-</tr>
 
 <tr>
 <td>2:30 - 5:00 PM</td>
@@ -168,7 +166,7 @@ Ben Smith
 
 <tr>
 <td> 8:30 - 10:00 AM</td>
-<td> <a href="https://github.com/ICESAT-2HackWeek/intro-jupyter-git">Collaboration tools revisited: Git/GitHub/Jupyter </a></td>
+<td> <a href="https://github.com/ICESAT-2HackWeek/intro-jupyter-git">Jupyter revisited: collaboration and reproducibility</a></td>
 <td> Fernando Perez</td>
 </tr>
 
@@ -179,9 +177,15 @@ Ben Smith
 </tr>
 
 <tr> 
-<td> 10:30 - 12:00 PM </td>
-<td><a href="https://github.com/ICESAT-2HackWeek/intro-hdf5">Working with HDF5 and ICESat-2 data formats</a></td>
+<td> 10:30 - 11:15 AM </td>
+<td><a href="https://github.com/ICESAT-2HackWeek/intro-hdf5">Reduction of ICESat-2 data files</a></td>
 <td>Fernando Paolo</td>
+</tr>
+
+<tr>
+<td>11:15 - 12:00 PM</td>
+<td><a href="https://github.com/ICESAT-2HackWeek/gridding">Gridding and filtering of elevation changes</a></td>
+<td>Johan Nilsson</td>
 </tr>
 
 <tr>
@@ -192,8 +196,8 @@ Ben Smith
 
 <tr>
 <td>1:00 - 1:30 PM</td>
-<td>Project check-in  </td>
-<td> Everyone </td>
+<td><a href="https://github.com/ICESAT-2HackWeek/gridding">Gridding and filtering of elevation changes</a></td>
+<td>Johan Nilsson</td>
 </tr>
 
 <tr>
@@ -231,20 +235,11 @@ Ben Smith
 <th>Instructors</th>
 </tr>
 
+
 <tr>
 <td>8:30 - 10:00 AM</td>
-<td>Parallel Sessions
-<ol>
-<li>Land-ice 2: Correction/Applications (mass balance/flow models)</li>
-<li>Sea-ice 2: Sea Ice Thickness </li>
-</ol>
-</td>
-<td>
-<ol>
-<li>Maya Becker</li>
-<li>Alek Petty</li>
-</ol>
-</td>
+<td><a href="https://github.com/ICESAT-2HackWeek/geospatial-analysis">Geospatial data exploration<a></td>
+<td>David Shean</td>
 </tr>
 
 <tr>
@@ -253,10 +248,21 @@ Ben Smith
 <td></td>
 </tr>
 
+
 <tr>
-<td>10:30 - 11:30 PM</td>
-<td>Gridding</td>
-<td>Johan Nilsson</td>
+<td>10:30 - 11:30 AM</td>
+<td>Parallel Sessions
+<ol>
+<li><a href="https://github.com/ICESAT-2HackWeek/data-correction">Land-ice 2: Correcting ICES-at2 data</a></li>
+<li><a href="https://github.com/ICESAT-2HackWeek/sea-ice-tutorials">Sea-ice 2: Sea Ice Thickness</a></li>
+</ol>
+</td>
+<td>
+<ol>
+<li>Maya Becker / Susheel Adusumilli</li>
+<li>Alek Petty</li>
+</ol>
+</td>
 </tr>
 
 <tr>
@@ -281,7 +287,7 @@ Ben Smith
 <td>1:30 - 2:30 PM</td>
 <td>Parallel Sessions
 <ol>
-<li>Sea Ice 3: Surface Roughness over Sea Ice </li>
+<li><a href="https://github.com/ICESAT-2HackWeek/sea-ice-tutorials">Sea Ice 3: Surface Roughness over Sea Ice</a></li>
 <li>Land Ice 3: Overview of Altimetry Differences</li>
 </ol>
 </td>
@@ -326,7 +332,7 @@ Ben Smith
 
 <tr>
 <td>10:30 - 12:00 PM </td>
-<td>Open Tutorial Session</td>
+<td>Open Tutorial Session / Project work</td>
 <td> Participants</td>
 </tr>
 
