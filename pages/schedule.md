@@ -238,7 +238,7 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 
 <tr>
 <td>8:30 - 10:00 AM</td>
-<td><a href="https://github.com/ICESAT-2HackWeek/geospatial-analysis">Geospatial data exploration<a></td>
+<td><a href="https://github.com/ICESAT-2HackWeek/geospatial-analysis">Geospatial data exploration</a></td>
 <td>David Shean</td>
 </tr>
 
@@ -247,7 +247,6 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 <td>Coffee Break</td>
 <td></td>
 </tr>
-
 
 <tr>
 <td>10:30 - 11:30 AM</td>
