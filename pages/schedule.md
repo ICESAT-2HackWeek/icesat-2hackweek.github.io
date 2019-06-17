@@ -40,7 +40,7 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 
 <tr>
 <td>9:15 - 10:45 AM</td>
-<td> Introduction to ICESat-2</td>
+<td><a href="https://github.com/ICESAT-2HackWeek/intro_ICESat2">Introduction to ICESat-2</a></td>
 <td>Tom Neumann, Ron Kwok, Ben Smith</td>
 </tr>
 
