@@ -5,9 +5,9 @@ permalink: schedule.html
 description: Schedule
 ---
 
-## Location
+## Live Video
 
-All tutorials and hacking sessions are located at the <a href="https://www.google.com/maps/place/UW+South+Campus+Center/@47.6495125,-122.3129915,17z/data=!3m1!4b1!4m5!3m4!1s0x549014ec0573d0fd:0x92c36f77d79c29d7!8m2!3d47.6495089!4d-122.3107975">South Campus Center</a> on the University of Washington campus.
+Join us for <a href="https://washington.zoom.us/j/895301205">live tutorials</a>. All times below are Pacific Time.
 
 ## Pre-event preparation
 
