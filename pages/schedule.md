@@ -266,7 +266,7 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 
 <tr>
 <td>11:30 - 12:00 PM</td>
-<td>Data assimilation and modeling</td>
+<td><a href="https://icepack.github.io">Data assimilation and modeling</a></td>
 <td>Daniel Shapero</td>
 </tr>
 
