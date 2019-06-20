@@ -252,7 +252,7 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 <td>10:30 - 11:30 AM</td>
 <td>Parallel Sessions
 <ol>
-<li><a href="https://github.com/ICESAT-2HackWeek/data-correction">Land-ice 2: Correcting ICES-at2 data</a></li>
+<li><a href="https://github.com/ICESAT-2HackWeek/data-correction">Land-ice 2: Correcting ICESat-2 data</a></li>
 <li><a href="https://github.com/ICESAT-2HackWeek/sea-ice-tutorials">Sea-ice 2: Sea Ice Thickness</a></li>
 </ol>
 </td>
