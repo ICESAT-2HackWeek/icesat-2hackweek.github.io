@@ -5,10 +5,6 @@ permalink: schedule.html
 description: Schedule
 ---
 
-## Live Video
-
-Join us for <a href="https://washington.zoom.us/j/895301205">live tutorials</a>. All times below are Pacific Time.
-
 ## Pre-event preparation
 
 Please work through this <a href ="https://icesat-2hackweek.github.io/preliminary/">Preliminary tutorial</a> in advance of the hackweek!
@@ -52,7 +48,7 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 
 <tr>
 <td>11:00 - 12:00 PM </td>
-<td> <a href="https://github.com/ICESAT-2HackWeek/intro-jupyter-git">IPython and Jupyter</a> </td>
+<td> <a href="https://github.com/ICESAT-2HackWeek/intro-jupyter-git">IPython and Jupyter</a>  - <a href="https://www.youtube.com/watch?v=xNE3m5JOigc"> video </a></td>
 <td> Fernando Perez </td>
 </tr>
 
@@ -64,7 +60,7 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 
 <tr>
 <td> 1:00 PM - 2:30 PM</td>
-<td><a href="https://github.com/ICESAT-2HackWeek/intro-jupyter-git">Git version control / collaboration on GitHub</a></td>
+<td><a href="https://github.com/ICESAT-2HackWeek/intro-jupyter-git">Git version control / collaboration on GitHub</a> - <a href="https://www.youtube.com/watch?v=l4rNE2hJGPI"> video </a></td>
 <td>Fernando Perez</td>
 </tr>
 
@@ -107,7 +103,7 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 
 <tr>
 <td>8:30 - 10:00 AM</td>
-<td><a href="https://github.com/ICESAT-2HackWeek/data-access">ICESat-2 data access</a></td>
+<td><a href="https://github.com/ICESAT-2HackWeek/data-access">ICESat-2 data access</a> - <a href="https://www.youtube.com/watch?v=KFdGBxkne1U"> video </a></td>
 <td>Amy Steiker</td>
 </tr>
 
@@ -119,14 +115,14 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 
 <tr> 
 <td> 10:30 - 11:15 AM </td>
-<td><a href="https://github.com/ICESAT-2HackWeek/intro-hdf5">Introduction to HDF5 data model</a></td>
+<td><a href="https://github.com/ICESAT-2HackWeek/intro-hdf5">Introduction to HDF5 data model</a> - <a href="https://www.youtube.com/watch?v=bl1Dm6a0-B8"> video </a></td>
 <td>Fernando Paolo</td>
 </tr>
 
 
 <tr> 
 <td> 11:15 - 12:00 PM </td>
-<td><a href="https://github.com/ICESAT-2HackWeek/Clouds_and_data_filtering">Clouds and data filtering</a></td>
+<td><a href="https://github.com/ICESAT-2HackWeek/Clouds_and_data_filtering">Clouds and data filtering</a> - <a href="https://www.youtube.com/watch?v=CngLak9-ULE"> video </a></td>
 <td>Ben Smith</td>
 </tr>
 
@@ -139,7 +135,7 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 
 <tr>
 <td>1:00 - 1:30 PM</td>
-<td><a href="https://github.com/ICESAT-2HackWeek/Clouds_and_data_filtering">Clouds and data filtering</a></td>
+<td><a href="https://github.com/ICESAT-2HackWeek/Clouds_and_data_filtering">Clouds and data filtering</a> - <a href="https://www.youtube.com/watch?v=8uXzHo6Ytok"> video </a></td>
 <td>Ben Smith</td>
 </tr>
 
@@ -166,7 +162,7 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 
 <tr>
 <td> 8:30 - 10:00 AM</td>
-<td> <a href="https://github.com/ICESAT-2HackWeek/intro-jupyter-git">Jupyter revisited: collaboration and reproducibility</a></td>
+<td> <a href="https://github.com/ICESAT-2HackWeek/intro-jupyter-git">Jupyter revisited: collaboration and reproducibility</a> - <a href="https://www.youtube.com/watch?v=puJa6fnjrEo"> video </a></td>
 <td> Fernando Perez</td>
 </tr>
 
@@ -178,13 +174,13 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 
 <tr> 
 <td> 10:30 - 11:15 AM </td>
-<td><a href="https://github.com/ICESAT-2HackWeek/intro-hdf5">Reduction of ICESat-2 data files</a></td>
+<td><a href="https://github.com/ICESAT-2HackWeek/intro-hdf5">Reduction of ICESat-2 data files</a> - <a href="https://www.youtube.com/watch?v=X4Mks9Wrtd0"> video </a></td>
 <td>Fernando Paolo</td>
 </tr>
 
 <tr>
 <td>11:15 - 12:00 PM</td>
-<td><a href="https://github.com/ICESAT-2HackWeek/gridding">Gridding and filtering of elevation changes</a></td>
+<td><a href="https://github.com/ICESAT-2HackWeek/gridding">Gridding and filtering of elevation changes</a> - <a href="https://www.youtube.com/watch?v=Ng7Dgstzsek"> video </a></td>
 <td>Johan Nilsson</td>
 </tr>
 
@@ -204,7 +200,7 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 <td>1:30 - 2:30 PM</td>
 <td>Parallel Sessions
 <ol>
-<li><a href="https://github.com/ICESAT-2HackWeek/sea-ice-tutorials">Sea Ice 1: Sea Ice Free Board Products</a></li>
+<li><a href="https://github.com/ICESAT-2HackWeek/sea-ice-tutorials">Sea Ice 1: Sea Ice Free Board Products</a> - <a href="https://www.youtube.com/watch?v=NejNIh70dlc"> video </a></li>
 <li>Land Ice 1: Land Elevation Change Products</li>
 </ol>
 </td>
@@ -238,7 +234,7 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 
 <tr>
 <td>8:30 - 10:00 AM</td>
-<td><a href="https://github.com/ICESAT-2HackWeek/geospatial-analysis">Geospatial data exploration</a></td>
+<td><a href="https://github.com/ICESAT-2HackWeek/geospatial-analysis">Geospatial data exploration</a> - <a href="https://www.youtube.com/watch?v=3N7ENfWoiVk"> video </a></td>
 <td>David Shean</td>
 </tr>
 
