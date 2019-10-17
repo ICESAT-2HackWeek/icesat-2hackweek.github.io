@@ -1,9 +1,10 @@
 # Site settings
-title: Cryospheric Science with ICESat-2 Hackweek 2019
+title: Cryospheric Science with ICESat-2 Hackweek 2020
 email: icesat@uw.edu
 description: Workshop On ICESat-2 Datasets for cryospheric studies <br>
              University of Washington <br>
-             June 17-21, 2019 <br> <br>
+             June 15-19, 2020 (tentative dates) <br> 
+             Applications will be accepted soon! <br>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
