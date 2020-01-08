@@ -5,3 +5,4 @@ Gemfile.lock
 *.gem
 .idea/*
 .vs/
+.vscode/
