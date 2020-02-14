@@ -5,6 +5,14 @@ permalink: schedule.html
 description: Schedule
 ---
 
+# NOTE
+
+Below is the 2019 schedule. In 2020 we are considering the addition of several new topics:
+
+* development of community libraries such as [captoolkit](https://github.com/fspaolo/captoolkit) and [icepyx](https://github.com/icesat2py/icepyx)
+* tutorials on machine learning 
+* working with new ICESat-2 products released in 2020
+
 ## Pre-event preparation
 
 Please work through this <a href ="https://icesat-2hackweek.github.io/preliminary/">Preliminary tutorial</a> in advance of the hackweek!
@@ -37,7 +45,7 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 <tr>
 <td>9:15 - 10:45 AM</td>
 <td><a href="https://github.com/ICESAT-2HackWeek/intro_ICESat2">Introduction to ICESat-2</a></td>
-<td>Tom Neumann, Ron Kwok, Ben Smith</td>
+<td>Tom Neumann, Ben Smith</td>
 </tr>
 
 <tr>
