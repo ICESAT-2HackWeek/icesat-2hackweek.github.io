@@ -28,24 +28,6 @@ team:
       image_url: /assets/images/IanJoughin.JPG
       github_user: 
 
-    - name: Rob Fatland
-      title: UW Cloud Czar for Research
-      affiliate: eScience & UW-IT
-      image_url: https://geohackweek.github.io/ghw2017/images/6199513.jpeg
-      github_user: robfatland
-
-    - name: Amanda Tan
-      title: Data Scientist
-      affiliate: eScience & UW-IT
-      image_url: https://geohackweek.github.io/ghw2017/images/Amanda-Tan-300x300.jpg
-      github_user: cloudmaven
-
-  - - name: David Shean
-      title: Assistant Professor
-      affiliate: Civil and Environmental Engineering
-      image_url: https://geohackweek.github.io/ghw2017/images/1103530.jpg
-      github_user: dshean
-
     - name: Scott Henderson
       title: Postdoctoral Fellow
       affiliate: eScience & ESS
@@ -58,11 +40,11 @@ team:
       image_url: https://avatars1.githubusercontent.com/u/57394?s=400&v=4
       github_user: fperez
 
-  - - name: Johan Nilsson
-      title: Scientist
-      affiliate: <a href="https://science.jpl.nasa.gov/people/Nilsson/">Jet Propulsion Laboratory, NASA</a>
-      image_url: /assets/images/JohanNilsson.jpg
-      github_user: nilssonj
+  - - name: David Shean
+      title: Assistant Professor
+      affiliate: Civil and Environmental Engineering
+      image_url: https://geohackweek.github.io/ghw2017/images/1103530.jpg
+      github_user: dshean
 
     - name: Fernando Paolo
       title: Postdoctoral Scholar 
@@ -70,33 +52,22 @@ team:
       image_url: https://avatars0.githubusercontent.com/u/539688?s=460&v=4
       github_user: fspaolo
 
-    - name: Joachim Meyer
-      title: Graduate Student 
-      affiliate: University of Utah 
-      image_url: https://avatars2.githubusercontent.com/u/178649?s=400&v=4
-      github_user: jomey
-
-  - - name: Amy Steiker
-      title: Data Support Specialist 
-      affiliate: National Snow and Ice Data Center 
-      image_url: /assets/images/AmySteiker.png
-
-    - name: Tom Neumann
-      title: Research Scientist 
-      affiliate: NASA Goddard Space Flight Center 
-      image_url: /assets/images/TomNeumann.jpg
-
     - name: Alek Petty 
       title: Research Scientist 
       affiliate: University of Maryland 
       image_url: http://essic.umd.edu/joom2/media/com_etree/users/761_1.jpeg
       github_user: akpetty
+      
+  - - name: Johan Nilsson
+      title: Scientist
+      affiliate: <a href="https://science.jpl.nasa.gov/people/Nilsson/">Jet Propulsion Laboratory, NASA</a>
+      image_url: /assets/images/JohanNilsson.jpg
+      github_user: nilssonj
 
-  - - name: Nick Holschuh
-      title: Postdoctoral Scholar
-      affiliate: <a href="http://nholschuh.com">Department of Earth and Space Sciences, UW</a>
-      image_url: /assets/images/NickHolschuh.png
-      github_user: nholschuh
+    - name: Tom Neumann
+      title: Research Scientist 
+      affiliate: NASA Goddard Space Flight Center 
+      image_url: /assets/images/TomNeumann.jpg
 
     - name: Matthew Siegfried
       title: Assistant Professor
@@ -104,16 +75,8 @@ team:
       image_url: https://ytq142ajmv7461kcq34og4r6-wpengine.netdna-ssl.com/wp-content/uploads/sites/30/2018/10/siegfried-1.jpg
       github_user: mrsiegfried
 
-    - name: Suzanne Dickinson
-      title: Oceanographer IV
-      affiliate: <a href="https://www.apl.washington.edu/people/profile.php?last_name=Dickinson&first_name=Suzanne">Applied Physics Lab, UW</a>
-      image_url: /assets/images/SuzanneDickinson.JPG
-      github_user: suzanne64
-
-  - - name: Maya Becker
-      title: Graduate Student
-      affiliate: <a href="http://glaciology.weebly.com/">Scripps Glaciology Group, UCSD</a>
-      image_url: /assets/images/MayaBecker.png
-      github_user: mayakbecker
-
+  - - name: Amy Steiker
+      title: Data Support Specialist 
+      affiliate: National Snow and Ice Data Center 
+      image_url: /assets/images/AmySteiker.png
 ---
