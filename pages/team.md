@@ -79,4 +79,10 @@ team:
       title: Data Support Specialist 
       affiliate: National Snow and Ice Data Center 
       image_url: /assets/images/AmySteiker.png
+
+    - name: Jessica Scheick
+      title: Researcher/Software Developer
+      affiliate: University of Maine
+      image_url: /assets/images/JessicaScheick.jpg
+      github_user: JessicaS11
 ---
