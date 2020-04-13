@@ -1,10 +1,9 @@
 # Site settings
 title: Cryospheric Science with ICESat-2 Hackweek 2020
 email: icesat@uw.edu
-description: We have decided not to offer this hackweek in person because of the novel coronavirus (COVID-19) outbreak. <br>
-             Our team is exploring offering a remote hackweek. <br>
-             This may include preliminary tutorials in May, followed by a 2-3 day virtual hack event the week of June 15, 2020. <br>
-             We will continue to accept applications for this potential virtual hackweek until April 10, 2020. <br> 
+description: The application period is now closed. <br>
+             We will be providing information soon regarding acceptance to the program. <br>
+             We will also post details soon about the schedule and content. <br> 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 

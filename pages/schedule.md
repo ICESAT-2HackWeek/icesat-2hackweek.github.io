@@ -7,11 +7,9 @@ description: Schedule
 
 # NOTE
 
-Below is the 2019 schedule. In 2020 we are considering the addition of several new topics:
+Below is the 2019 schedule. 
 
-* development of community libraries such as [captoolkit](https://github.com/fspaolo/captoolkit) and [icepyx](https://github.com/icesat2py/icepyx)
-* tutorials on machine learning 
-* working with new ICESat-2 products released in 2020
+We are in the process of redsigning our 2020 program to offer everything virtually. Check back soon for details.
 
 ## Pre-event preparation
 
