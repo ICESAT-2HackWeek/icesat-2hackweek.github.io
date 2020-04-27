@@ -79,4 +79,10 @@ team:
       title: Data Support Specialist 
       affiliate: National Snow and Ice Data Center 
       image_url: /assets/images/AmySteiker.png
+	  
+	- name: Nick Holschuh
+      title: Assistant Professor
+      affiliate: Department of Geology, Amherst College
+      image_url: /assets/images/NickHolschuh.png
+      github_user: nholschuh
 ---
