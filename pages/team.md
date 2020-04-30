@@ -4,6 +4,59 @@ title: INSTRUCTORS and EVENT COORDINATORS
 permalink: our-team.html
 description: List of contributors to IS2HackWeek
 team:
+  - - name: Jessica Scheick
+      title: Researcher/Software Developer
+      affiliate: University of Maine
+      image_url: /assets/images/JessicaScheick.jpg
+      github_user: JessicaS11
+
+    - name: Amy Steiker
+      title: Data Support Specialist 
+      affiliate: National Snow and Ice Data Center 
+      image_url: /assets/images/AmySteiker.png
+
+    - name: Lindsey Heagy
+      title: Postdoctoral Fellow
+      affiliate: U. C. Berkeley
+      image_url: https://lindseyjh.ca/s/images/profile-image1.jpg
+      github_user: lheagy  
+
+  - - name: Fernando Perez
+      title: Assistant Professor/Faculty Scientist
+      affiliate: <a href="https://bids.berkeley.edu/people/fernando-perez">Department of Statistics, UC Berkeley</a>
+      image_url: https://avatars1.githubusercontent.com/u/57394?s=400&v=4
+      github_user: fperez
+
+    - name: Scott Henderson
+      title: Postdoctoral Fellow
+      affiliate: eScience & ESS
+      image_url: https://avatars2.githubusercontent.com/u/3924836?s=460&v=4
+      github_user: scottyhq
+
+    - name: Fernando Paolo
+      title: Postdoctoral Scholar 
+      affiliate: NASA Jet Propulsion Laboratory 
+      image_url: https://avatars0.githubusercontent.com/u/539688?s=460&v=4
+      github_user: fspaolo
+
+  - - name: David Shean
+      title: Assistant Professor
+      affiliate: Civil and Environmental Engineering
+      image_url: https://geohackweek.github.io/ghw2017/images/1103530.jpg
+      github_user: dshean
+
+    - name: Ian Joughin
+      title: Senior Principal Engineer
+      affiliate: APL
+      image_url: /assets/images/IanJoughin.JPG
+      github_user: 
+
+    - name: Alek Petty 
+      title: Research Scientist 
+      affiliate: University of Maryland 
+      image_url: http://essic.umd.edu/joom2/media/com_etree/users/761_1.jpeg
+      github_user: akpetty
+      
   - - name: Axel Schweiger
       title: Senior Principal Scientist
       affiliate: APL
@@ -21,43 +74,7 @@ team:
       affiliate: APL
       image_url: /assets/images/BenSmith.JPG
       github_user: 
-
-  - - name: Ian Joughin
-      title: Senior Principal Engineer
-      affiliate: APL
-      image_url: /assets/images/IanJoughin.JPG
-      github_user: 
-
-    - name: Scott Henderson
-      title: Postdoctoral Fellow
-      affiliate: eScience & ESS
-      image_url: https://avatars2.githubusercontent.com/u/3924836?s=460&v=4
-      github_user: scottyhq
-
-    - name: Fernando Perez
-      title: Assistant Professor/Faculty Scientist
-      affiliate: <a href="https://bids.berkeley.edu/people/fernando-perez">Department of Statistics, UC Berkeley</a>
-      image_url: https://avatars1.githubusercontent.com/u/57394?s=400&v=4
-      github_user: fperez
-
-  - - name: David Shean
-      title: Assistant Professor
-      affiliate: Civil and Environmental Engineering
-      image_url: https://geohackweek.github.io/ghw2017/images/1103530.jpg
-      github_user: dshean
-
-    - name: Fernando Paolo
-      title: Postdoctoral Scholar 
-      affiliate: NASA Jet Propulsion Laboratory 
-      image_url: https://avatars0.githubusercontent.com/u/539688?s=460&v=4
-      github_user: fspaolo
-
-    - name: Alek Petty 
-      title: Research Scientist 
-      affiliate: University of Maryland 
-      image_url: http://essic.umd.edu/joom2/media/com_etree/users/761_1.jpeg
-      github_user: akpetty
-      
+    
   - - name: Johan Nilsson
       title: Scientist
       affiliate: <a href="https://science.jpl.nasa.gov/people/Nilsson/">Jet Propulsion Laboratory, NASA</a>
@@ -74,27 +91,10 @@ team:
       affiliate: <a href="http://www.minesglaciology.com">Department of Geophysics, Colorado School of Mines</a>
       image_url: https://ytq142ajmv7461kcq34og4r6-wpengine.netdna-ssl.com/wp-content/uploads/sites/30/2018/10/siegfried-1.jpg
       github_user: mrsiegfried
-
-  - - name: Amy Steiker
-      title: Data Support Specialist 
-      affiliate: National Snow and Ice Data Center 
-      image_url: /assets/images/AmySteiker.png
-
-    - name: Nick Holschuh
+     
+  - - name: Nick Holschuh
       title: Assistant Professor
       affiliate: Department of Geology, Amherst College
       image_url: /assets/images/NickHolschuh.png
-      github_user: nholschuh
-      
-    - name: Jessica Scheick
-      title: Researcher/Software Developer
-      affiliate: University of Maine
-      image_url: /assets/images/JessicaScheick.jpg
-      github_user: JessicaS11
-
-  - - name: Lindsey Heagy
-      title: Postdoctoral Fellow
-      affiliate: U. C. Berkeley
-      image_url: https://lindseyjh.ca/s/images/profile-image1.jpg
-      github_user: lheagy     
+      github_user: nholschuh   
 ---
