@@ -91,4 +91,10 @@ team:
       affiliate: University of Maine
       image_url: /assets/images/JessicaScheick.jpg
       github_user: JessicaS11
+
+  - - name: Lindsey Heagy
+      title: Postdoctoral Fellow
+      affiliate: U. C. Berkeley
+      image_url: https://lindseyjh.ca/s/images/profile-image1.jpg
+      github_user: lheagy     
 ---
