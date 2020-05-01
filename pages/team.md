@@ -99,7 +99,7 @@ team:
       github_user: nholschuh   
 
     - name: Scott Henderson
-      title: Postdoctoral Fellow
+      title: Research Scientist
       affiliate: eScience & ESS
       image_url: https://avatars2.githubusercontent.com/u/3924836?s=460&v=4
       github_user: scottyhq
