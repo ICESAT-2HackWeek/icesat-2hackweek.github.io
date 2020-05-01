@@ -27,11 +27,11 @@ team:
       image_url: https://avatars1.githubusercontent.com/u/57394?s=400&v=4
       github_user: fperez
 
-    - name: Scott Henderson
-      title: Postdoctoral Fellow
-      affiliate: eScience & ESS
-      image_url: https://avatars2.githubusercontent.com/u/3924836?s=460&v=4
-      github_user: scottyhq
+    - name: Ellen Buckley
+      title: PhD Candidate
+      affiliate: University of Maryland
+      image_url: /assets/images/EllenBuckley.jpg
+      github_user: emb4md
 
     - name: Fernando Paolo
       title: Postdoctoral Scholar 
@@ -97,4 +97,10 @@ team:
       affiliate: Department of Geology, Amherst College
       image_url: /assets/images/NickHolschuh.png
       github_user: nholschuh   
+
+    - name: Scott Henderson
+      title: Postdoctoral Fellow
+      affiliate: eScience & ESS
+      image_url: https://avatars2.githubusercontent.com/u/3924836?s=460&v=4
+      github_user: scottyhq
 ---
