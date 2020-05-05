@@ -81,11 +81,11 @@ team:
       image_url: /assets/images/JohanNilsson.jpg
       github_user: nilssonj
 
-    - name: Tom Neumann
-      title: Research Scientist 
-      affiliate: NASA Goddard Space Flight Center 
-      image_url: /assets/images/TomNeumann.jpg
-
+    - name: Alex Huynh
+      title: Administrative Assistant 
+      affiliate: APL 
+      image_url: /assets/images/AlexHuynh.png
+      
     - name: Matthew Siegfried
       title: Assistant Professor
       affiliate: <a href="http://www.minesglaciology.com">Department of Geophysics, Colorado School of Mines</a>
@@ -103,4 +103,9 @@ team:
       affiliate: eScience & ESS
       image_url: https://avatars2.githubusercontent.com/u/3924836?s=460&v=4
       github_user: scottyhq
+
+    - name: Tom Neumann
+      title: Research Scientist 
+      affiliate: NASA Goddard Space Flight Center 
+      image_url: /assets/images/TomNeumann.jpg
 ---
