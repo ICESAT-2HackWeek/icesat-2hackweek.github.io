@@ -108,4 +108,9 @@ team:
       title: Research Scientist 
       affiliate: NASA Goddard Space Flight Center 
       image_url: /assets/images/TomNeumann.jpg
+
+    - name: Sebastian Alvis
+      title: Data Scientist 
+      affiliate: eScience & APL
+      image_url: /assets/images/SebastianAlvis.jpg
 ---
