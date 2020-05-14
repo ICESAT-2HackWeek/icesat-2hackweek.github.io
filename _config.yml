@@ -1,7 +1,7 @@
 # Site settings
 title: Cryospheric Science with ICESat-2 Hackweek 2020
 email: icesat@uw.edu
-description: t event will be offered online from June 8 to June 18, 2020. <br> 
+description: This event will be offered online from June 8 to June 18, 2020. <br> 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
