@@ -113,4 +113,5 @@ team:
       title: Data Scientist 
       affiliate: eScience & APL
       image_url: /assets/images/SebastianAlvis.jpg
+      github_user: salvis2
 ---
