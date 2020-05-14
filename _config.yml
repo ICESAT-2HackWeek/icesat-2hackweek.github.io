@@ -1,9 +1,7 @@
 # Site settings
 title: Cryospheric Science with ICESat-2 Hackweek 2020
 email: icesat@uw.edu
-description: The application period is now closed. <br>
-             We will be providing information soon regarding acceptance to the program. <br>
-             We will also post details soon about the schedule and content. <br> 
+description: t event will be offered online from June 8 to June 18, 2020. <br> 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
@@ -30,3 +28,6 @@ email_url: icesat@uw.edu
 # Build settings
 markdown: kramdown
 
+# deployment
+host: 127.0.0.1
+port: 8000
