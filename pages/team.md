@@ -114,4 +114,10 @@ team:
       affiliate: eScience & APL
       image_url: /assets/images/SebastianAlvis.jpg
       github_user: salvis2
+
+    - name: Yara Mohajerani
+      title: Postdoctoral Scholar
+      affiliate: UC Irvine
+      image_url: https://avatars3.githubusercontent.com/u/11203059?s=400&u=90006c5295ed2d1514c0ee9411bafcc0459474fb&v=4
+      github_user: yaramohajerani
 ---
