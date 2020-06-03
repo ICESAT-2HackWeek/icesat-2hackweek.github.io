@@ -141,6 +141,6 @@ team:
     - name: Tyler Sutterley
       title: Research Associate
       affiliate: APL
-      image_url: https://avatars1.githubusercontent.com/u/5384907?s=96&v=4
+      image_url: https://avatars0.githubusercontent.com/u/5384907?s=460&u=77cf8bd2056ba00175009ca1fcfa3f1ea8bec785&v=4
       github_user: tsutterley
 ---
