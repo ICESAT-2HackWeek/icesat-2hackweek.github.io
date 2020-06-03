@@ -137,4 +137,10 @@ team:
       affiliate: APL
       image_url: http://psc.apl.uw.edu/wordpress/wp-content/uploads/shapero/200423%20-%20Shapero%20Profile%20picture.jpg
       github_user: danshapero
+
+    - name: Tyler Sutterley
+      title: Research Associate
+      affiliate: APL
+      image_url: https://avatars1.githubusercontent.com/u/5384907?s=96&v=4
+      github_user: tsutterley
 ---
