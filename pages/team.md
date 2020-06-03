@@ -131,4 +131,10 @@ team:
       affiliate: <a href="http://www.minesglaciology.com">Department of Geophysics, Colorado School of Mines</a>
       image_url: https://avatars0.githubusercontent.com/u/3896161?s=460&u=3e2701e177fd286fcd853cb4d1cb727e80b1aabc&v=4
       github_user: espg
+
+    - name: Daniel Shapero
+      title: Principal Research Scientist
+      affiliate: APL
+      image_url: http://psc.apl.uw.edu/wordpress/wp-content/uploads/shapero/200423%20-%20Shapero%20Profile%20picture.jpg
+      github_user: danshapero
 ---
