@@ -119,4 +119,16 @@ team:
       title: Administrative Specialist
       affiliate: eScience Institute
       image_url: /assets/images/JaneKoh.jpg
+
+    - name: Yara Mohajerani
+      title: Postdoctoral Scholar
+      affiliate: UC Irvine
+      image_url: https://avatars3.githubusercontent.com/u/11203059?s=400&u=90006c5295ed2d1514c0ee9411bafcc0459474fb&v=4
+      github_user: yaramohajerani
+
+  - - name: Shane Grigsby
+      title: Postdoctoral Fellow
+      affiliate: <a href="http://www.minesglaciology.com">Department of Geophysics, Colorado School of Mines</a>
+      image_url: https://avatars0.githubusercontent.com/u/3896161?s=460&u=3e2701e177fd286fcd853cb4d1cb727e80b1aabc&v=4
+      github_user: espg
 ---
