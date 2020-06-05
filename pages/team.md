@@ -143,4 +143,10 @@ team:
       affiliate: APL
       image_url: https://avatars0.githubusercontent.com/u/5384907?s=460&u=77cf8bd2056ba00175009ca1fcfa3f1ea8bec785&v=4
       github_user: tsutterley
+
+  - - name: Zheng Liu
+      title: Research Scientist
+      affiliate: APL
+      image_url: /assets/images/liu_zheng.jpg
+      github_user: liuzheng-arctic
 ---
