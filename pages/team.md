@@ -136,4 +136,22 @@ team:
       title: Social Strategist & Collaboration Architect
       affiliate: Back Loop Consulting group
       image_url: /assets/images/CharleyHaley.jpg
+
+    - name: Daniel Shapero
+      title: Principal Research Scientist
+      affiliate: APL
+      image_url: http://psc.apl.uw.edu/wordpress/wp-content/uploads/shapero/200423%20-%20Shapero%20Profile%20picture.jpg
+      github_user: danshapero
+
+  - - name: Zheng Liu
+      title: Research Scientist
+      affiliate: APL
+      image_url: /assets/images/liu_zheng.jpg
+      github_user: liuzheng-arctic
+
+    - name: Tyler Sutterley
+      title: Research Associate
+      affiliate: APL
+      image_url: https://avatars0.githubusercontent.com/u/5384907?s=460&u=77cf8bd2056ba00175009ca1fcfa3f1ea8bec785&v=4
+      github_user: tsutterley
 ---
