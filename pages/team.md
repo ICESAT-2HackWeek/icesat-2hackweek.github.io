@@ -131,4 +131,9 @@ team:
       affiliate: <a href="http://www.minesglaciology.com">Department of Geophysics, Colorado School of Mines</a>
       image_url: https://avatars0.githubusercontent.com/u/3896161?s=460&u=3e2701e177fd286fcd853cb4d1cb727e80b1aabc&v=4
       github_user: espg
+
+    - name: Charley Haley
+      title: Social Strategist & Collaboration Architect
+      affiliate: Back Loop Consulting group
+      image_url: /assets/images/CharleyHaley.jpg
 ---
