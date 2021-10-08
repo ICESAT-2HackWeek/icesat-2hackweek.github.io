@@ -1,8 +1,7 @@
 # Site settings
-title: Cryospheric Science with ICESat-2 Hackweek 2021
+title: Cryospheric Science with ICESat-2 Hackweek 2022
 email: icesat@uw.edu
-description: We are tentatively planning a remote hackweek for sometime in October 2021 <br>
-             Check back here soon for details! <br> 
+description:  The third ICESat-2 hackweek is being planned for March 2022. Check back soon for more updates! <br> 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
