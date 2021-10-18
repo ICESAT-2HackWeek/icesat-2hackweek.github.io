@@ -28,10 +28,6 @@ email_url: icesat@uw.edu
 # Build settings
 markdown: kramdown
 
-# deployment
-host: 127.0.0.1
-port: 8000
-
 # Theme setting, we are excluding jekyll-spectral-theme/ root to avoid picking up theme config.
 # We should probably clean it up later.
 destination:  _site/
