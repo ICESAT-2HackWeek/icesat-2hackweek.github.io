@@ -18,18 +18,18 @@ jobs:
     - name: Build environment
       shell: bash -l {0}
       run: |
-         conda create --name OHW-site -c conda-forge rb-bundler compilers
-         source activate OHW-site
+         conda create --name build-site -c conda-forge rb-bundler compilers
+         source activate build-site
          bundle install
     - name: Build documentation
       shell: bash -l {0}
       run: |
-        source activate OHW-site
+        source activate build-site
         bundle exec jekyll build --verbose
 
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@3.7.1
-      if: github.ref == 'refs/heads/source' && github.repository == 'oceanhackweek/oceanhackweek.github.io'
+      if: github.ref == 'refs/heads/source' && github.repository == 'ICESAT-2HackWeek/icesat-2hackweek.github.io'
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         BRANCH: master

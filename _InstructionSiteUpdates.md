@@ -20,7 +20,8 @@ Note that apparently any Markdown file dropped at the root level of the reposito
 
 Clone the GitHub repo locally, then edit the content of files following the documentation in the previous section. To view your changes, rebuild the site using Jekyll.
 
-Install Jekyll locally through conda with:
+Install Ruby and Jekyll locally through conda.
+The recommended approach is:
 
 ```shell
 conda create --name JEKYLL -c conda-forge rb-bundler compilers
@@ -28,7 +29,17 @@ conda activate JEKYLL
 bundle install
 ```
 
-To build and serve the site, run this statement:
+However, this may not work for some MacOS users.
+In that case, use (exactly as written - you cannot combine the conda install steps):
+```shell
+conda create --name JEKYLL -c conda-forge ruby
+conda activate JEKYLL
+conda install -c conda-forge clangxx_osx-64
+gem install bundler
+bundle install
+```
+
+To build and serve the site (all OS), run this statement:
 
 ```shell
 bundle exec jekyll serve
