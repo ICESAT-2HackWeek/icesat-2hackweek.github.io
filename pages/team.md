@@ -2,7 +2,7 @@
 layout: page
 title: INSTRUCTORS and EVENT COORDINATORS
 permalink: our-team.html
-description: List of contributors to IS2HackWeek
+description: List of contributors to IS2Hackweek
 team:
   - - name: Jessica Scheick
       title: Researcher/Software Developer
