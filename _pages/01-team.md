@@ -37,3 +37,4 @@ team:
       title: Social Strategist & Collaboration Architect
       affiliate: Back Loop Consulting group
       image_url: /assets/images/CharleyHaley.jpg
+---
