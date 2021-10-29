@@ -10,7 +10,7 @@ team:
       image_url: https://avatars.githubusercontent.com/u/11756442?v=4
       github_user: JessicaS11
 
-  - - name: Axel Schweiger
+    - name: Axel Schweiger
       title: Senior Principal Scientist
       affiliate: APL
       image_url: /assets/images/AxelSchweiger.JPG
