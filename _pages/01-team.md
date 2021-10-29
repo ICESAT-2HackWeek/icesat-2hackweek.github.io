@@ -10,12 +10,6 @@ team:
       image_url: https://avatars.githubusercontent.com/u/11756442?v=4
       github_user: JessicaS11
 
-    - name: Axel Schweiger
-      title: Senior Principal Scientist
-      affiliate: APL
-      image_url: /assets/images/AxelSchweiger.JPG
-      github_user: axelschweiger
-
     - name: Anthony Arendt
       title: Principal Research Scientist
       affiliate: eScience & APL
@@ -27,6 +21,13 @@ team:
       affiliate: eScience & ESS
       image_url: https://avatars2.githubusercontent.com/u/3924836?s=460&v=4
       github_user: scottyhq
+
+  - - name: Axel Schweiger
+      title: Senior Principal Scientist
+      affiliate: APL
+      image_url: /assets/images/AxelSchweiger.JPG
+      github_user: axelschweiger
+
 
     - name: Tom Neumann
       title: Research Scientist 
