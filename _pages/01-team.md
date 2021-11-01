@@ -38,4 +38,9 @@ team:
       title: Social Strategist & Collaboration Architect
       affiliate: Back Loop Consulting group
       image_url: /assets/images/CharleyHaley.jpg
+
+  - - name: Jane Koh
+      title: Project Manager
+      affiliate: eScience
+      image_url: /assets/images/JaneKoh.jpg
 ---
