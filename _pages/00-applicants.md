@@ -6,5 +6,5 @@ description: <b>ICESat-2 Hackweek 2022 will take place in March 2022 (virtual or
     During the hackweek, we will explore ICESat-2 data and collaborative software infrastructure through tutorials and hands-on “hacking" projects.
     To best benefit from the program, participants are expected to have some experience with git/GitHub and Python/scientific programming or be prepared to participate in optional workshops in advance of the event to cultivate the technical skills to enhance participation during the event.
 permalink: applicant-info.html
-image: geohackweek_01.png
+image: hackweek_picture.png
 ---
