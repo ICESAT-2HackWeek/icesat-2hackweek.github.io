@@ -47,4 +47,3 @@ bundle exec jekyll serve
 
 The site will be available at `http://127.0.0.1:4000/`.
 
-Note that the main branch is actually called `source`, not `master`! Ignore the `master` branch (we may delete it later).
