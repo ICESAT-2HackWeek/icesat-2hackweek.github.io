@@ -43,4 +43,9 @@ team:
       title: Project Manager
       affiliate: eScience
       image_url: /assets/images/JaneKoh.jpg
+
+    - name: Nicoleta Cristea
+      title: Lead Education Coordinator
+      affiliate: eScience & CEE
+      image_url: https://avatars.githubusercontent.com/u/16614760?v=4
 ---
